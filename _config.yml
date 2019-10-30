@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Joyanta Basak's Front Page"
 title_separator          : "-"
 name                     : &name "Joyanta Basak"
-description              : &description "personal description"
+description              : &description "personal description"Aspiring Researcher, AI Enthusiast, Strategy Gamer"
 url                      : https://joyantabasak13.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "joyantabasak13.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         : "https://www.facebook.com/joyanta.ruru.basak"
   foursquare       :
-  github           : "https://github.com/joyantabasak13/"
+  github           : "joyantabasak13"
   google_plus      :
   keybase          :
   instagram        :
