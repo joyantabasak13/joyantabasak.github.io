@@ -8,7 +8,7 @@ date: 2019-01-19
 location: "Dhaka, Bangladesh"
 ---
 
-I have taught 2 theory courses and 1 lab course. The courses I took:
+I have taught 2 theory courses and 1 lab course.
 
 _CSE211:_ Discrete Mathematics
 
