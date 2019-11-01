@@ -13,7 +13,7 @@ redirect_from:
 Joyanta Basak
 ============
 
-You can download my full CV [here](https://github.com/joyantabasak13/joyantabasak13.github.io/tree/master/files/AcademicCV_Joyanta_Basak.pdf).
+You can download my full CV [here](https://joyantabasak13.github.io/files/AcademicCV_Joyanta_Basak.pdf).
 
 Education
 ---------
