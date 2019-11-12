@@ -7,7 +7,7 @@ sites using machine learning techniques.
 <br/>"
 collection: portfolio
 ---
-You can view the draft article [here](https://joyantabasak.github.io/files/Lys_Suc_Draft.pdf). 
+You can view the draft article [here](https://joyantabasak13.github.io/files/Lys_Suc_Draft.pdf). 
 * Supervised by [Dr.Md Sohel Rahman](https://cse.buet.ac.bd/faculty/facdetail.php?id=msrahman), Professor, CSE, BUET.
 
 Abstract
