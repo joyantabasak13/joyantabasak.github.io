@@ -13,7 +13,7 @@ redirect_from:
 Joyanta Basak
 ============
 
-You can download my full CV [here](https://joyantabasak.github.io/files/AcademicCV_Joyanta_Basak.pdf).
+You can download my full CV [here](https://joyantabasak13.github.io/files/AcademicCV_Joyanta_Basak.pdf).
 
 Education
 ---------
@@ -30,7 +30,7 @@ Experience
 January, 2019 - May, 2019
 **Lecturer at Eastern University**
 
-* In Spring semester, 2019, I had <a href="https://joyantabasak.github.io/teaching/2019-spring-teaching-lecturer/" target="_blank">instructed</a>. 2 theory class and 3 sessional class equivalent to 10.5 credit hours per week in total. <br /> 
+* In Spring semester, 2019, I had <a href="https://joyantabasak13.github.io/teaching/2019-spring-teaching-lecturer/" target="_blank">instructed</a>. 2 theory class and 3 sessional class equivalent to 10.5 credit hours per week in total. <br /> 
 * I was responsible for preparing teaching materials and demos, setting questions in tests and examined answer scripts. Additionally, I had supervised
 projects of 40 students as part of sessional class.
 
