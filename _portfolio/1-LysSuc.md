@@ -21,6 +21,6 @@ detection of lysine succinylation is expensive, time consuming and labor extensi
 robust computational tools are absolutely necessary to process rapidly increasing number of sequenced
 proteins and correctly categorize the concealed lysine residues. In this paper, we propose an efficient
 model that optimizes different sequence based representations to approximate discriminating function.
-This model reflects the efficacy of sequence information by achieving **89% accuracy, 84.9% sensitivity,
-92.8% specificity, 0.781 Matthews correlation coefficient, 0.947 AUROC and 0.946 AUPR,** which is the
-best overall performance achieved by any predictor in lysine succinylated site prediction.
+This model reflects the efficacy of sequence information by **achieving 87.3% accuracy, 94.9% sensitivity,
+81.1% specificity, 0.76 Matthews correlation coefficient, 0.94 AUROC and 0.91 AUPR**, which is comparable
+performance to state-of-the-art predictors in lysine succinylated site prediction.
