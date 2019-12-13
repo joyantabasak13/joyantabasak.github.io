@@ -13,5 +13,6 @@ My name is Joyanta Basak. I am a CSE graduate from *Bangladesh University of Eng
  to work on health informatics and precision medicine that may facilitate better healthcare for all. <be />
 I completed my undergrad thesis under the
  supervision of <a href="http://msrahman.buet.ac.bd/">Dr. M. Sohel Rahman</a> and am still in active research with him. <be />
+ <p>
 Alongside academic activities, I love to voluntarily partake in social, charitable and environmental activities. I like to travel and meet new people. In my free time,
 I read books, watch anime and play strategy games. I am a big fan of AOE2, EUIV & HOI4.
