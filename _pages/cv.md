@@ -26,8 +26,8 @@ Bangladesh University of Engineering & Technology *(BUET)* <br />
 selection*
 
 #### Standardized Tests:
-GRE Score : Q-167, V-155, AW: 3.5. (December, 2018) <br />
-TOEFL Score: R-30, L-29, S-24, W-27. (December, 2018)
+*GRE Score : Q-167, V-155, AW: 3.5 (December, 2018) <br />
+*TOEFL Score: R-30, L-29, S-24, W-27 (December, 2018)
 
 Professional Experience
 -----------------------
@@ -35,7 +35,7 @@ Professional Experience
 ### Software Engineer, Samsung R&D Institute, Bangladesh
 
 * Worked on Samsung Cloud Service design and development on android wearOS platform. (July, 2020 - December, 2020)
-* Developed Samsung Cloud Service (system API) on Tizen 5.5 OS for Galaxy Watch3 models (February, 2020 - June, 2020). 
+* Developed Samsung Cloud Service (system API) on Tizen 5.5 OS for Galaxy Watch3 models. (February, 2020 - June, 2020). 
 
 #### January, 2019 - May, 2019
 ### Lecturer, Eastern University
