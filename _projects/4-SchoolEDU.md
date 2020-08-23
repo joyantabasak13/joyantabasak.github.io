@@ -1,7 +1,7 @@
 ---
 title: "School Education Manager"
 excerpt: "An easy-to-maintain Information System Design for a School"
-collection: portfolio
+collection: projects
 ---
 * Developed a web based School Information System designed after the academic system of *Engineering
 University School & College, Dhaka*.
