@@ -38,7 +38,7 @@ Professional Experience
 #### January, 2019 - May, 2019
 ### Lecturer, Eastern University
 
-* In Spring semester, 2019, <a href="https://joyantabasak13.github.io/teaching/2019-spring-teaching-lecturer/" target="_blank">Instructed</a>. 2 theory class and 3 sessional class equivalent to 10.5 credit hours per week in total. <br /> 
+* In Spring 2019 semester, <a href="https://joyantabasak13.github.io/teaching/2019-spring-teaching-lecturer/" target="_blank">Instructed</a>. 2 theory class and 3 sessional class equivalent to 10.5 credit hours per week in total. <br /> 
 * Was fully responsible for preparing lecture, demos, testing and grading around 150 students across 5 courses. Additionally, I had supervised projects of 40 students as part of sessional classes.
 
 Academic Scholarships
