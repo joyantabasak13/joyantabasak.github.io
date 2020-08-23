@@ -16,7 +16,7 @@ Joyanta Basak
 Education
 ---------
 
-July, 2014 - October, 2018 <br />
+#### July, 2014 - October, 2018 <br />
 BSc, Computer Science and Engineering, <br />
 Bangladesh University of Engineering & Technology *(BUET)* <br />
 CGPA: 3.72/4.00 <br />
@@ -56,14 +56,12 @@ Technical Expertise
 
 Volunteering Position
 ----------------------
-#### May, 2018 
-#### CSE Fest’18 - Technical and Cultural Festival 
+#### CSE Fest’18 - Technical and Cultural Festival (May, 2018)
 ### Student Coordinator
 
 * I had coordinated a 2-tier team of 40 volunteers to successfully conduct professional competitions, exhibitions
 and programs. I had to effectively communicate with the stackholders i.e. organizing committee, sponsors, service providers and volunteers.   
 
-#### October, 2017 - October,2018
-#### Student Association of Mymensingh (SAM), BUET 
+#### Student Association of Mymensingh (SAM), BUET (October, 2017 - October,2018)
 ### Vice President
 * Joined in 2014, I had actively participated and later elected VP of this volunteering organisation with 200 active members, enthusiastic volunteers and many prominent alumni.
