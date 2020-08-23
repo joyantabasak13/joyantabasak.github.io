@@ -5,7 +5,7 @@ based on evolutionary conserved information of protein sequences. The study expl
 protein sequence based features and protein secondary structure for predicting Lysine Succinylation
 sites using machine learning techniques.
 <br/>"
-collection: portfolio
+collection: projects
 ---
 You can view the draft article [here](https://joyantabasak13.github.io/files/Lys_Suc_Draft.pdf). 
 * Supervised by [Dr.Md Sohel Rahman](https://cse.buet.ac.bd/faculty/facdetail.php?id=msrahman), Professor, CSE, BUET.
