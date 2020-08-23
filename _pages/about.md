@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Joyanta (joh-yohn-toh). <be />
+I am Joyanta (joh-yohn-toh). <be>
  <p>
 I work on latest wearable technologies at Samsung R&D Institute, Bangladesh *(SRBD)*. Currently I am working on projects involving design & development of multiple system apps on Tizen & android wearOS platform for upcoming Galaxy watches.  <be>
 I had graduated from *Bangladesh University of Engineering & Technology (BUET)* in October, 2018. I completed my undergrad thesis under the
