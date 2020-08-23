@@ -26,6 +26,11 @@ selection*
 
 Experience
 ----------
+### CSE Fest’18 - Technical and Cultural Festival 
+#### May, 2018 
+### Student Coordinator
+
+* I had coord
 
 January, 2019 - May, 2019
 **Lecturer at Eastern University**
