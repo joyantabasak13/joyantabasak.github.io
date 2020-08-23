@@ -17,9 +17,9 @@ Education
 ---------
 
 July, 2014 - October, 2018 <br />
-**BSc, Computer Science and Engineering,** <br />
+BSc, Computer Science and Engineering, <br />
 Bangladesh University of Engineering & Technology *(BUET)* <br />
-**CGPA: 3.72/4.00** <br />
+CGPA: 3.72/4.00 <br />
 **Thesis on** *computational approaches to predict Lysine Succinylation sites using machine learning based feature
 selection*
 
@@ -29,13 +29,13 @@ TOEFL Score: R-30, L-29, S-24, W-27 (December, 2018)
 
 Professional Experience
 -----------------------
-#### January, 2020 - Now
+January, 2020 - Now
 ### Software Engineer, Samsung R&D Institute, Bangladesh
 
 * Worked on Samsung Cloud Service design and development on android wearOS platform. (July, 2020 - December, 2020)
 * Developed Samsung Cloud Service (system API) on Tizen 5.5 OS for Galaxy Watch3 models. (February, 2020 - June, 2020). 
 
-#### January, 2019 - May, 2019
+January, 2019 - May, 2019
 ### Lecturer, Eastern University
 
 * In Spring semester, 2019, <a href="https://joyantabasak13.github.io/teaching/2019-spring-teaching-lecturer/" target="_blank">Instructed</a>. 2 theory class and 3 sessional class equivalent to 10.5 credit hours per week in total. <br /> 
@@ -56,14 +56,14 @@ Technical Expertise
 
 Volunteering Position
 ----------------------
-#### May, 2018 
+May, 2018 
 #### CSE Fest’18 - Technical and Cultural Festival 
 ### Student Coordinator
 
 * I had coordinated a 2-tier team of 40 volunteers to successfully conduct professional competitions, exhibitions
 and programs. I had to effectively communicate with the stackholders i.e. organizing committee, sponsors, service providers and volunteers.   
 
-#### October, 2017 - October,2018
+October, 2017 - October,2018
 #### Student Association of Mymensingh (SAM), BUET 
 ### Vice President
 * Joined in 2014, I had actively participated and later elected VP of this volunteering organisation with 200 active members, enthusiastic volunteers and many prominent alumni.
