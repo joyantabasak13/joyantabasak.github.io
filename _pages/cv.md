@@ -24,9 +24,9 @@ Bangladesh University of Engineering & Technology *(BUET)* <br />
 **Thesis on** *computational approach to predict Lysine Succinylation sites using machine learning based feature
 selection*
 
-#### Standardized Tests
-#### GRE Score : Q-167, V-155, AW: 3.5. (December, 2018)
-#### TOEFL Score: R-30, L-29, S-24, W-27. (December, 2018)
+#### Standardized Tests:
+GRE Score : Q-167, V-155, AW: 3.5. (December, 2018) <br />
+TOEFL Score: R-30, L-29, S-24, W-27. (December, 2018)
 
 Professional Experience
 -----------------------
