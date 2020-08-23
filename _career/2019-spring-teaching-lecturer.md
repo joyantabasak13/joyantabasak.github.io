@@ -1,6 +1,6 @@
 ---
 title: "Lecturer at Eastern University"
-collection: teaching
+collection: career
 type: "Undergraduate course"
 permalink: /career/2019-spring-teaching-lecturer
 venue: "Eastern University, CSE"
