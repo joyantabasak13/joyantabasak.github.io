@@ -10,9 +10,9 @@ redirect_from:
 
 I am Joyanta (joh-yohn-toh). <be>
  <p>
-I work on latest wearable technologies at Samsung R&D Institute, Bangladesh **(SRBD)**. Currently I am working on projects involving design & development of multiple system apps on Tizen & android wearOS platform for upcoming Galaxy watches.
-   <be>
-I had graduated from **Bangladesh University of Engineering & Technology (BUET)** in October, 2018. I completed my undergrad thesis under the
+I work on latest wearable technologies at Samsung R&D Institute, Bangladesh <em>(SRBD)</em>. Currently I am working on projects involving design & development of multiple system apps on Tizen & android wearOS platform for upcoming Galaxy watches.
+   <be \>
+I had graduated from <em>Bangladesh University of Engineering & Technology (BUET)</em> in October, 2018. I completed my undergrad thesis under the
  supervision of <a href="http://msrahman.buet.ac.bd/">Dr. M. Sohel Rahman</a> and am still in active research with him.</p>
   <p>
 My primary research interest lies at the intersection of Computational Biology, Bioinformatics and Applied machine learning.  <be> 
