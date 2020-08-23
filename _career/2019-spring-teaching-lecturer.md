@@ -2,13 +2,13 @@
 title: "Lecturer at Eastern University"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2019-spring-teaching-lecturer
+permalink: /career/2019-spring-teaching-lecturer
 venue: "Eastern University, CSE"
 date: 2019-01-19
 location: "Dhaka, Bangladesh"
 ---
 
-I have taught 2 theory courses and 1 lab course.
+I have taught 2 theory courses and 1 lab course to 3 classes.
 
 _CSE211:_ Discrete Mathematics
 
