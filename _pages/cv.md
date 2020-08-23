@@ -11,7 +11,7 @@ redirect_from:
 
 
 Joyanta Basak
-============
+=============
 
 You can download my full CV from [here](https://joyantabasak13.github.io/files/AcademicCV_Joyanta_Basak.pdf).
 
@@ -24,15 +24,15 @@ Bangladesh University of Engineering & Technology *(BUET)* <br />
 **Thesis on** *computational approach to predict Lysine Succinylation sites using machine learning based feature
 selection*
 
-Experience
-----------
-### CSE Fest’18 - Technical and Cultural Festival 
-#### May, 2018 
-### Student Coordinator
+Professional Experience
+-----------------------
+#### January, 2020 - Now
+### Software Engineer
 
-* I had coord
+* Worked on Samsung Cloud Service design and development on android wearOS platform. (July, 2020 - December, 2020)
+* Developed Samsung Cloud Service (system API) on Tizen 5.5 OS for Galaxy Watch3 models (February, 2020 - June, 2020). 
 
-January, 2019 - May, 2019
+#### January, 2019 - May, 2019 <br />
 **Lecturer at Eastern University**
 
 * In Spring semester, 2019, I had <a href="https://joyantabasak13.github.io/teaching/2019-spring-teaching-lecturer/" target="_blank">instructed</a>. 2 theory class and 3 sessional class equivalent to 10.5 credit hours per week in total. <br /> 
@@ -40,7 +40,7 @@ January, 2019 - May, 2019
 projects of 40 students as part of sessional class.
 
 Academic Scholarships
---------------------
+---------------------
 
 * Dean’s Merit Scholarship for achieving **Honors** grade in junior & sophomore years, BUET
 * Placed in top **1%** of combined merit list in *all four* public examinations by Ministry of Education, Bangladesh and qualified for *Education Board Merit scholarships*.  
