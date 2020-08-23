@@ -13,7 +13,7 @@ redirect_from:
 Joyanta Basak
 ============
 
-You can download my full CV [here](https://joyantabasak13.github.io/files/AcademicCV_Joyanta_Basak.pdf).
+You can download my full CV from [here](https://joyantabasak13.github.io/files/AcademicCV_Joyanta_Basak.pdf).
 
 Education
 ---------
@@ -37,16 +37,15 @@ projects of 40 students as part of sessional class.
 Academic Scholarships
 --------------------
 
-* Dean’s Merit Scholarship for maintaining **Honors** grade in junior & sophomore years, BUET
+* Dean’s Merit Scholarship for achieving **Honors** grade in junior & sophomore years, BUET
 * Placed in top **1%** of combined merit list in *all four* public examinations by Ministry of Education, Bangladesh and qualified for *Education Board Merit scholarships*.  
 
 
 Technical Expertise
 ----------------------------------------
-* Programming Languages:  **Python**, **C/C++**, **Java**, JavaScript, *R*, SQL, Assembly
-* Web Development: **HTML**, CSS, Jekyll, Markdown
-* Applications Git: Oracle 11g
-* Frameworks: Spring MVC, Spring Boot, **Tensorflow**
+* Programming Languages:  **Python**, **C/C++**, **Java**, **R**
+* Platforms: Android, Tizen, Oracle 11g RDBMS
+* Frameworks: **Tensorflow**, Keras, Spring (Java), Selenium
 
 Volunteering Position
 ----------------------
