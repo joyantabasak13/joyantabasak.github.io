@@ -20,7 +20,7 @@ Education
 BSc, Computer Science and Engineering, <br />
 Bangladesh University of Engineering & Technology *(BUET)* <br />
 CGPA: 3.72/4.00 <br />
-**Thesis on** *computational approaches to predict Lysine Succinylation sites using machine learning based feature
+*Thesis on computational approaches to predict Lysine Succinylation sites using machine learning based feature
 selection*
 
 **Standardized Tests:** <br />
