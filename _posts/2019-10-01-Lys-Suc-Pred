@@ -2,6 +2,7 @@
 title: 'Lysine Succinylation Site Prediction'
 date: 2019-06-20
 permalink: /posts/2019/06/Lys-Suc-Pred/
+collection: posts
 tags:
   - Proteomics
   - Feature Selection

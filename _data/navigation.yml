@@ -4,19 +4,19 @@ main:
 #    url: /publications/
 
 #  - title: "Talks"
-#    url: /talks/    
+#    url: /talks/
 
   - title: "Career"
-    url: /career/    
-    
+    url: /career/
+
   - title: "Projects"
     url: /projects/
-        
+
   - title: "Posts"
     url: /posts/
-    
+
   - title: "CV"
     url: /cv/
-    
+
 #  - title: "Guide"
 #    url: /markdown/

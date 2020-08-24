@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Joyanta Basak's Front Page"
+title                    : "Joyanta's Front Page"
 title_separator          : "-"
 name                     : &name "Joyanta Basak"
 description              : &description "Aspiring Researcher, AI Enthusiast, Strategy Gamer"
@@ -85,8 +85,8 @@ author:
   bio              : "Aspiring Researcher, AI Enthusiast, Budding Developer"
   location         : "Dhaka, Bangladesh"
   employer         :
-  pubmed           : 
-  googlescholar    : 
+  pubmed           :
+  googlescholar    :
   email            : "joyantabasak13@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Joyanta_Basak"
   uri              :
@@ -103,10 +103,10 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "joyantabasak"
-  orcid            : 
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : "basak_joyanta"

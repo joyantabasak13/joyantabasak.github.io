@@ -2,6 +2,7 @@
 title: 'On Counting Mobile Lock Patterns'
 date: 2019-08-17
 permalink: /posts/2019/08/Mobile-lock-patterns/
+collection: posts
 tags:
   - Counting
   - Grid graph
