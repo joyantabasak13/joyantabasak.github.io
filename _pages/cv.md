@@ -32,7 +32,7 @@ Professional Experience
 
 ### Software Engineer, Samsung R&D Institute, Bangladesh (January, 2020 - Now)
 
-* Worked on Samsung Cloud Service design and development on android wearOS platform. (July, 2020 - December, 2020)
+* Worked on Samsung Cloud Service design and development on Android wearOS platform. (July, 2020 - December, 2020)
 * Developed Samsung Cloud Service (system API) on Tizen 5.5 OS for Galaxy Watch3 models. (February, 2020 - June, 2020). 
 
 ### Lecturer, Eastern University (January, 2019 - May, 2019)
