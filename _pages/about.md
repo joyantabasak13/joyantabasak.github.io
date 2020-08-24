@@ -16,10 +16,8 @@ I had graduated from <em>Bangladesh University of Engineering & Technology (BUET
 supervision of <a href="http://msrahman.buet.ac.bd/">Dr. M. Sohel Rahman</a> and am still in active research with him.</p>
   <p>
 My primary research interest lies at the intersection of Computational Biology, Bioinformatics and Applied machine learning.  <br /> 
-I love to apply knowledge of computer science in developing intelligent systems for solving real-world issues including basic biological problems. </p>
+I love to apply knowledge of computer science in developing intelligent systems for solving real-world issues including basic biological problems.</p>
+<p> I am also interested to work on health informatics and precision medicine that may facilitate better healthcare for all.</p>
 <p>
-I am also interested to work on health informatics and precision medicine that may facilitate better healthcare for all.</p>
-
- <p>
 Alongside professional activities, I love to voluntarily partake in social, charitable and environmental activities. I like to travel and meet new people. In my free time,
 I read books, watch anime and play strategy games. I am a big fan of AOE2, EUIV & HOI4. </p>
