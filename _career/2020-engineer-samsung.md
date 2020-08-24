@@ -1,9 +1,9 @@
 ---
-title: "Software Engineer @ Samsung R&D Institute Bangladesh (SRBD)"
+title: "Software Engineer"
 collection: career
 type: "Software R&D, Application Development"
 permalink: /career/2020-engineer-samsung
-venue: ""
+venue: "Samsung R&D Institute Bangladesh (SRBD)"
 date: 2020-01-15
 location: "Dhaka, Bangladesh"
 ---
