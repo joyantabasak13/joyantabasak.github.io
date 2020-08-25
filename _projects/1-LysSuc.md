@@ -12,22 +12,23 @@ collection: projects
 
 A Brief Note
 ------------
-For details read the draft article. <br>
-For a quick peek, abstract is given in the following section. <br>
-I have later worked on far larger CPLM-3.0 database. I will post it in future. <br>
-If you are familiar with any ML model training pipeline, then you don't need to read the draft to understand following points.
-
+For details read the [draft article](https://joyantabasak13.github.io/files/Lys_Suc_Draft.pdf). <br>
+For a quick overview, abstract is given in the following section. <br>
+<em> Update: </em> I have later worked on far larger PLMD database. I will post it in future. <br>
+<br>
+The target of the research was to find an robust and efficient binary classifier to predict a lysine site (a amino acid in protein) have undergone succinylation or not. Succinylation is a posttranslational modification where a succinyl group (-CO-CH2-CH2-CO2H) is added to a lysine residue of a protein molecule.
+<br>
 Here I would mention the questions I tried to find answer to while we were conducting the research.
 
 <dl>
   <dt><em>Why Some Features Perform Better?</em> </dt>
   <dd>There is no consensus in the literature on any particular feature or feature type to use. Prior researches explored many features including physico-chemical features, various positional encoding, protein primary & secondary structures. Although some features (protein structures) showed better discriminatory performance, why they perform better is not clear (yet). We noticed almost all of the recently explored better performing feature types are directly or indirectly dependent to the sequence. To gain better insight, we used simple features (n-gram, n-gapped-n-gram, position specific n-gram) extracted from the sequence directly. Our work shows some features (some certain gapped-bi-grams) are particularly better at discriminating the Lysine succinylation sites. It may help to explain the efficacy of some complex features in future. </dd>
 
-  <dt><em>Species-wise insight</em> </dt>
-  <dd>It was an introductory course to programming for freshman year students. Taught the basics of programming with C language </dd>
+  <dt><em>Is There Any Species-wise Difference?</em> </dt>
+  <dd> Succinylation is spotted in variety of animal, plants and prokaryote species. As this PTM was discovered relatively recently (2010), investigations on different species are still going on. However, the current state-of-the-art predictors do not take account of any species specific variation which is probably due to low amount of per species samples. These works are based on CPLM 2.0 database which contains 893 unique proteins from 12 species. Later published PLMD database (2017) expanded the number of sequenced unique proteins to 6378 from 14 species. In my later work (not yet complete), I experimented with this dataset and tried to find out how the lysine site descriptions varied across species. </dd>
 
-  <dt><em>Model Construction</em></dt>
-  <dd>It was the sessional part of CSE103 course. Here I got a chance to supervise projects of 40 very enthusiastic students.</dd>
+  <dt><em>How the Models Behave?</em></dt>
+  <dd>Like any other ML task, finding out a better performing model is crucial. Succinylation prediction is relatively new problem and related field is still progressing. Hence an explainable model offering valuable insights might be more preferred to a slightly better performing black-box implementation. This compelled us to try ML algorithms that offer better monitoring capability. As more data becomes available, explainable deep learning techniques (for ex., attention mechanism) can be adopted.</dd>
 
 </dl>
 
