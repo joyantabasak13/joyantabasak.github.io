@@ -217,7 +217,7 @@ defaults:
       path: ""
       type: career
     values:
-      layout: single
+      layout: archive
       author_profile: true
       share: true
       comments: true
