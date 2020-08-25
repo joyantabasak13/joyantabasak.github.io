@@ -3,7 +3,7 @@ title: "Undergraduate Research"
 excerpt: "Developed an efficient computational tool on CPLM-2.0 database proposing a prediction scheme
 based on evolutionary conserved information of protein sequences. The study explored the efficacy of
 protein sequence based features and protein secondary structure for predicting Lysine Succinylation
-sites using machine learning techniques.
+sites using machine learning techniques. *(Click on the title for a brief overview)*
 <br/>"
 collection: projects
 ---

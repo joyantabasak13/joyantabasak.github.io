@@ -8,7 +8,7 @@ date: 2020-01-15
 location: "Dhaka, Bangladesh"
 ---
 
-I have worked on multiple system modules. My main contribution was in developing
+[[Brief](https://joyantabasak13.github.io/career/2020-engineer-samsung)] I have worked on multiple system modules. My main contribution was in developing
 Samsung Cloud Service (system API) on Tizen 5.5 OS for Galaxy Watch3 models and later
 development in Android platform.
 
